@@ -1,0 +1,68 @@
+
+[<module 'time' (built-in)>] name 'welcome' is not defined
+[<module 'time' (built-in)>] 'bye'
+[<module 'time' (built-in)>] 'welcome'
+[<module 'time' (built-in)>] Upload image failure.
+[<module 'time' (built-in)>] Upload image failure.
+[<module 'time' (built-in)>] Upload image failure.
+[<module 'time' (built-in)>] Upload image failure.
+[<module 'time' (built-in)>] Upload image failure.
+[<module 'time' (built-in)>] Upload image failure.
+[<module 'time' (built-in)>] Upload image failure.
+[<module 'time' (built-in)>] Upload image failure.
+[<module 'time' (built-in)>] Upload image failure.
+[<module 'time' (built-in)>] Upload image failure.
+[<module 'time' (built-in)>] Upload image failure.
+[<module 'time' (built-in)>] Upload image failure.
+[<module 'time' (built-in)>] Upload image failure.
+[<module 'time' (built-in)>] Upload image failure.
+[<module 'time' (built-in)>] Upload image failure.
+[<module 'time' (built-in)>] Upload image failure.
+[<module 'time' (built-in)>] 'autoCancel'
+[<module 'time' (built-in)>] 'autoBlock'
+[<module 'time' (built-in)>] Upload image failure.
+[<module 'time' (built-in)>] Upload image failure.
+[<module 'time' (built-in)>] Upload image failure.
+[<module 'time' (built-in)>] Upload image failure.
+[<module 'time' (built-in)>] 'autoRead'
+[<module 'time' (built-in)>] 'autoRead'
+[<module 'time' (built-in)>] 'autoRead'
+[<module 'time' (built-in)>] 'autoRead'
+[<module 'time' (built-in)>] 'autoBlock'
+[<module 'time' (built-in)>] 'kickMention'
+[<module 'time' (built-in)>] 'Nk'
+[<module 'time' (built-in)>] 'kickMention'
+[<module 'time' (built-in)>] 'kickMention'
+[<module 'time' (built-in)>] 'Nk'
+[<module 'time' (built-in)>] 'Nk'
+[<module 'time' (built-in)>] 'kickMention'
+[<module 'time' (built-in)>] 'kickMention'
+[<module 'time' (built-in)>] 'autoBlock'
+[<module 'time' (built-in)>] 'autoBlock'
+[<module 'time' (built-in)>] name 'duc1' is not defined
+[<module 'time' (built-in)>] 'LINE' object is not callable
+[<module 'time' (built-in)>] 'LINE' object is not callable
+[<module 'time' (built-in)>] name 'NOTIFIED_READ_MESSAGE' is not defined
+[<module 'time' (built-in)>] name 'NOTIFIED_READ_MESSAGE' is not defined
+[<module 'time' (built-in)>] name 'NOTIFIED_READ_MESSAGE' is not defined
+[<module 'time' (built-in)>] name 'NOTIFIED_READ_MESSAGE' is not defined
+[<module 'time' (built-in)>] name 'NOTIFIED_READ_MESSAGE' is not defined
+[<module 'time' (built-in)>] name 'NOTIFIED_READ_MESSAGE' is not defined
+[<module 'time' (built-in)>] name 'NOTIFIED_READ_MESSAGE' is not defined
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid mention.', parameterMap=None)
+[<module 'time' (built-in)>] name 'NOTIFIED_READ_MESSAGE' is not defined
+[<module 'time' (built-in)>] name 'NOTIFIED_READ_MESSAGE' is not defined
+[<module 'time' (built-in)>] name 'NOTIFIED_READ_MESSAGE' is not defined
+[<module 'time' (built-in)>] name 'NOTIFIED_READ_MESSAGE' is not defined
+[<module 'time' (built-in)>] name 'NOTIFIED_READ_MESSAGE' is not defined
+[<module 'time' (built-in)>] name 'NOTIFIED_READ_MESSAGE' is not defined
+[<module 'time' (built-in)>] name 'NOTIFIED_READ_MESSAGE' is not defined
+[<module 'time' (built-in)>] TalkException(code=6, reason='Invalid length of text: ', parameterMap=None)
+[<module 'time' (built-in)>] name 'NOTIFIED_READ_MESSAGE' is not defined
+[<module 'time' (built-in)>] name 'NOTIFIED_READ_MESSAGE' is not defined
+[<module 'time' (built-in)>] name 'NOTIFIED_READ_MESSAGE' is not defined
+[<module 'time' (built-in)>] name 'NOTIFIED_READ_MESSAGE' is not defined
+[<module 'time' (built-in)>] name 'NOTIFIED_READ_MESSAGE' is not defined
+[<module 'time' (built-in)>] name 'NOTIFIED_READ_MESSAGE' is not defined
+[<module 'time' (built-in)>] name 'NOTIFIED_READ_MESSAGE' is not defined
+[<module 'time' (built-in)>] 'autoBlock'
